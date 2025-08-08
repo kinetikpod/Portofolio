@@ -6,8 +6,7 @@ const Navbar = () => {
     <div id="navbar" className="sticky top-0 h-[10vh] flex justify-between items-center bg-white z-10">
       {/* left */}
       <div className="flex-1 flex items-center justify-start gap-8">
-        <div className="text-xl font-bold">Andrew</div>
-        <Toggle />
+      <Toggle />
       </div>
 
       {/* right */}

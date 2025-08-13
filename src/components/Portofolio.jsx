@@ -19,6 +19,12 @@ const Portfolio = () => {
         Portfolio
       </span>
 
+      {/* keterangan status proyek */}
+      <p className="mt-4 text-center text-sm text-gray-600 max-w-xl">
+        Note: Projects shown here are not yet deployed online but have been dockerized.
+        You can run them locally by following instructions in my GitHub README.
+      </p>
+
       {/* slider */}
       <Swiper
         spaceBetween={0}

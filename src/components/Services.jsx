@@ -9,8 +9,8 @@ const ServicesLeft = () => {
   return (
     <div className="flex flex-1 flex-col gap-6 pr-8">
       <div>
-        <h2 className="text-4xl font-bold text-primary mb-2">What I Do</h2>
-        <div className="h-1 w-12 bg-primary rounded"></div>
+        <h2 className="text-4xl font-bold text-orange-500 mb-2">What I Do</h2>
+        <div className="h-1 w-12 bg-orange-500 rounded"></div>
       </div>
       <p className="text-lg text-base-content leading-relaxed">
         I craft fullstack web applications and deploy intelligent systems —

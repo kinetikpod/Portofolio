@@ -34,7 +34,7 @@ const Contact = () => {
     >
       {/* Left Side */}
       <div className="space-y-4 relative">
-        <h2 className="text-4xl font-bold text-neutral">Get in Touch</h2>
+        <h2 className="text-4xl font-bold text-base-content">Get in Touch</h2>
         <h3 className="text-3xl font-bold text-orange-500">Contact me</h3>
         <p className="text-base text-neutral-content">
           Feel free to send me a message. I’ll get back to you as soon as I can.

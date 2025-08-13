@@ -9,15 +9,15 @@ const Portfolio = () => {
   const projects = [
     {
       img: Violin,
-      githubUrl: "https://github.com/kinetikpod",
+      githubUrl: "https://github.com/kinetikpod/LeafyLabs",
     },
     {
       img: Infer,
-      githubUrl: "https://github.com/kinetikpod",
+      githubUrl: "https://github.com/kinetikpod/LeafyLabs",
     },
     {
       img: FormWithResult,
-      githubUrl: "https://github.com/kinetikpod",
+      githubUrl: "https://github.com/kinetikpod/LeafyLabs",
     },
   ];
 
